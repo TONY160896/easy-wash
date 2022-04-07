@@ -1,0 +1,447 @@
+@media screen and (max-width: 900px)
+{
+ .whatsappno
+ {
+	 padding-right: 69px;
+ }
+	.col-md-8.col-lg-8.col-sm-6.navbardiv {
+    margin-top: -40px;
+}
+h2.works {
+    text-align: center !important;
+    padding-left: 58px !important;
+}
+hr.bottom {
+    margin-right: 39px ;
+}
+
+.one
+{
+	margin-left: 126px !important;
+}
+ 
+
+hr.hrtwo {
+    width: 250px;
+   margin-left: 0px !important;
+}
+
+.metreal thead th {
+    border: solid 1px black;
+    background-color: #993399;
+    padding-left: 0px !important; 
+    padding-bottom: 25px;
+    text-align: center;
+
+}
+
+button.button.Estimator {
+    background-color: black;
+     padding-left: 0px!important; 
+     padding-right: 0px!important; 
+  margin-left: 0px!important; 
+    margin-top: 24px !important;
+     padding: 5px;
+}
+button.button.Pricelist {
+     padding-left: 0px !important;
+    background-color: #993399;
+    padding-right: 0px !important;
+    padding: 5px !important;
+}
+hr.faqtop {
+    /* padding-top: 2px; */
+    margin-top: 30px;
+    width: 100%!important;
+    margin-left: 0px !important;
+}
+
+hr.faqdown {
+    width: 100%!important;
+    margin-left:0px!important;
+}
+
+input.formn {
+    width: 345px !important;
+}
+
+
+.lundoment {
+    
+    padding-top: 13px!important;
+}
+
+
+hr.hrfootertop {
+    color: white;
+    width: 350px;
+    margin-left:0px!important;
+}
+.hrfooterbottom
+{
+	 color: white;
+    width: 350px;
+    margin-left:0px!important;
+}
+
+h1.washeasy {
+    color: white;
+    font-size: 37px;
+    font-weight: 700;
+    padding-top: 99px;
+    float:none !important;
+	text-align:center;
+}
+.PICKUPCOL {
+    PADDING-BOTTOM: 18px;
+}
+
+
+}
+
+
+
+
+
+p.whatsappno
+ {
+    float: right;
+    font-size: 20px;
+}
+i.fab.fa-whatsapp {
+    float: right;
+    font-size: 33px;
+    color: green;
+    padding-right: 8px;
+}
+.whatsapprow
+{
+	 padding-top: 36px;
+
+}
+.wash
+{
+	color:#993399;
+	float: left;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    FLOAT: RIGHT;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+    PADDING: 15px;
+    margin-right: 2px;
+}
+.topwallpaper
+{
+	 background-image: url('../img/wallpaper.jpg');
+}
+i.fas.fa-phone-volume {
+       text-align: center;
+    font-size: 65px;
+    padding-top: 64px;
+    padding-left: 115px;
+    margin-top: 2px;
+
+}
+h1.callfor {
+    font-size: 50px;
+    padding-top: 13px;
+    padding-left: 60px;
+}
+
+ul.washul {
+    list-style-type: none;
+    color: #993399;
+    padding-top: 67px;
+    font-size: 26px;
+    font-weight: 600;
+}
+p.callpara {
+    font-size: 16px;
+	padding-top: 20px;
+}
+img.img-fluid.picright {
+    /* margin-left: 15px; */
+    margin-top: -5px;
+}
+hr.top {
+    float: right;
+    width: 500;
+    border: 1px solid black;
+}
+
+hr.bottom {
+    width: 250px;
+    float: right;
+    margin-right: 72px;
+     border: 1px solid black;
+}
+h2.works {
+    float: left;
+    padding-left: 368px;
+}
+.order
+{
+	background-image: url('./img/placeorder.jpg');
+	background-size: cover;
+}
+
+.ordertext
+{
+	
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.orderpara
+{
+	text-align:center;
+	color:white;
+	    padding-bottom: 10px;
+}
+.one
+{
+
+    border-radius: 100px;
+    background: white;
+    /* padding: 20px; */
+    width: 75px;
+    height: 75px;
+    margin-left: 89px;
+	position: absolute;
+    margin-top: -30px;
+
+}
+h1.oneno {
+    text-align: center;
+    padding-top: 19px;
+}
+/* .pick */
+/* { */
+	/* background-image: url('./img/pickup.jpg'!important); */
+	/* background-size: cover; */
+	
+/* } */
+.pickuptext
+{
+	 color: white;
+    text-align: center;
+    padding-top: 109px;
+    margin-bottom: 5px;
+}
+.pickpara
+{
+	
+	text-align:center;
+	color:white;
+	padding-bottom: 10px;
+	
+}
+.two
+{
+	  border-radius: 100px;
+    background: white;
+    /* padding: 20px; */
+    width: 75px;
+    height: 75px;
+    margin-left: 89px;
+	margin-left: 89px;
+    margin-top: -275px;
+	
+}
+.twono
+{
+	 text-align: center;
+    padding-top: 19px;
+}
+.pickup
+{
+	 background-image: url(./img/pickup.jpg);
+	background-size: cover;
+}
+.washandiron
+{
+	 background-image: url(./img/washandiron.jpg);
+	background-size: cover;
+}
+.deliver
+{
+	background-image: url(./img/deliver.jpg);
+	background-size: cover;
+}
+.weserve
+{
+	padding-top: 52px;
+}
+.Trivandrum
+{
+	color:#993399;
+}
+p.tvmtext {
+    font-size: 17px;
+}
+h2.launch {
+    text-align: center;
+}
+
+
+hr.hrtwo {
+    /* width: 250px; */
+    margin-left: 421px;
+}
+
+
+
+.metreal {
+    border: solid 1px black;
+   
+}
+
+    
+    .metreal thead th {
+    border: solid 1px black;
+    background-color: #993399;
+    
+}
+
+   th {
+    color: white;
+    text-align: center;
+    width: 301px;
+}
+    
+
+.metreal tbody td {
+    border: solid 1px black;
+
+    text-align: center;
+    
+  
+    
+}
+
+tr {
+    height: 81px;
+}
+
+button.button.Estimator {
+    background-color: black;
+    padding-left: 79px;
+    padding-right: 57px;
+    margin-left: 286px;
+	margin-top: 24px;
+}
+
+h2.Estimatorbotton {
+    color: white;
+    font-weight: 100;
+}
+
+
+button.button.Pricelist {
+    padding-left: 83px;
+    background-color: #993399;
+    padding-right: 67px;
+}
+
+h2.Price {
+    color: white;
+    font-weight: 100;
+}
+hr.faqtop {
+    /* padding-top: 2px; */
+    margin-top: 30px;
+    width: 500px;
+    margin-left: 393px;
+}
+h3.fq {
+    text-align: center;
+    font-size: 27px;
+    font-weight: 100;
+}
+hr.faqdown {
+    width: 250px;
+    margin-left: 528px;
+}
+.lundoment {
+    color: #993399;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 13px;
+	margin-bottom: -2px;
+}
+input.formn {
+    width: 502px;
+}
+.nameform {
+    padding-top: 6px;
+}
+.bottom
+{
+	background-color:#373e44;
+}
+
+h1.washeasy {
+    color: white;
+    font-size: 37px;
+    font-weight: 700;
+    padding-top: 99px;
+    float: right;
+}
+.addbottom {
+    color: white;
+    text-align: center;
+    padding-top: 99px;
+}
+
+.phonebottom
+{
+	color: white;
+    text-align: center;
+    padding-top: 99px;
+	
+}
+i.fab.fa-facebook-f {
+    color: white;
+    font-size: 31px;
+    padding: 5px;
+}
+.fab.fa-linkedin-in
+{
+	color: white;
+    font-size: 31px;
+    padding: 5px;
+	
+}
+.fab.fa-twitter
+{
+	color: white;
+    font-size: 31px;
+    padding: 5px;
+}
+.iconbottom {
+    padding-top: 99px;
+    text-align: center;
+    padding-right: 76px;
+}
+.footer {
+    padding-top: 33px;
+}
+
+p.copyright {
+    color: white;
+    text-align: center;
+}
+hr.hrfootertop {
+    color: white;
+    width: 350px;
+    margin-left:491px;
+}
+.hrfooterbottom
+{
+	 color: white;
+    width: 350px;
+    margin-left: 491px;
+}
